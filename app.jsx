@@ -307,6 +307,7 @@ export default function App() {
                         activeFacilityType={targetFacilityType}
                         getFacilityMeta={getFacilityMeta}
                         platformName={currentPlatform.platformName}
+                        lineName={selectedLine}
                     />
                 )}
 
@@ -332,6 +333,7 @@ export default function App() {
                                     facility={facility}
                                     activeMeta={activeMeta}
                                     activeTrainLength={activeTrainLength}
+                                    lineName={selectedLine}
                                 />
                             ))
                         )}

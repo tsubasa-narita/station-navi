@@ -1,7 +1,9 @@
 import React from 'react';
 import { ArrowRight, AlertCircle } from 'lucide-react';
+import { getCarLabel } from './carLabel';
 
-export default function FacilityCard({ facility, activeMeta, activeTrainLength }) {
+export default function FacilityCard({ facility, activeMeta, activeTrainLength, lineName }) {
+    const carLabel = getCarLabel(facility.carNumber, lineName, activeTrainLength);
     // 🌟UX改善：この設備が他の両数でも全く同じ号車になるか判定
     const isAlwaysSamePosition = facility.positions && facility.positions.length > 1 &&
         facility.positions.every(p => p.carNumber === facility.carNumber && p.doorNumber === facility.doorNumber);
@@ -33,7 +35,7 @@ export default function FacilityCard({ facility, activeMeta, activeTrainLength }
             {/* 超巨大な号車・ドア表示 */}
             <div className="p-6 text-center">
                 <div className="flex items-baseline justify-center gap-2">
-                    <span className={`text-6xl font-black text-${activeMeta.themeColor}-600 tracking-tighter`}>{facility.carNumber}</span>
+                    <span className={`text-6xl font-black text-${activeMeta.themeColor}-600 tracking-tighter`}>{carLabel}</span>
                     <span className="text-xl font-bold text-gray-500 pb-1">号車</span>
 
                     <span className="w-4"></span> {/* 余白 */}
