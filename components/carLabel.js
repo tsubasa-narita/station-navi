@@ -4,6 +4,7 @@
  * car numbers N+1..M are displayed as 増1..増(M-N).
  */
 const AUGMENT_RULES = {
+    'JR横須賀線': { 15: 11 },
     'JR湘南新宿ライン': { 15: 11, 14: 10 },
     'JR埼京線': { 15: 10 },
 };
