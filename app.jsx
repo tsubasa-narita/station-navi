@@ -1,12 +1,53 @@
-import React, { useState } from 'react';
-import { MapPin, Info, ArrowRight, AlertCircle, CheckCircle2, Train, Map } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { MapPin, Info, ArrowRight, AlertCircle, CheckCircle2, Train, Map, Star } from 'lucide-react';
 
 // --- 分離したコンポーネントとデータ ---
 import { ElevatorIcon, EscalatorIcon, StairsIcon } from './components/Icons';
 import FacilityCard from './components/FacilityCard';
+import TrainDiagram from './components/TrainDiagram';
 import stationData from './stationData.json';
 
+const FAVORITES_KEY = 'station-navi-favorites';
+const MAX_FAVORITES = 5;
+
+function loadFavorites() {
+    try {
+        return JSON.parse(localStorage.getItem(FAVORITES_KEY)) || [];
+    } catch { return []; }
+}
+
 export default function App() {
+    const [favorites, setFavorites] = useState(loadFavorites);
+
+    useEffect(() => {
+        localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
+    }, [favorites]);
+
+    const isFavorite = (line, stationId) => favorites.some(f => f.line === line && f.stationId === stationId);
+
+    const toggleFavorite = () => {
+        if (isFavorite(selectedLine, safeStationId)) {
+            setFavorites(prev => prev.filter(f => !(f.line === selectedLine && f.stationId === safeStationId)));
+        } else {
+            if (favorites.length >= MAX_FAVORITES) {
+                alert('お気に入りは最大5件までです。先に削除してください。');
+                return;
+            }
+            const station = stationData.find(s => s.stationId === safeStationId);
+            setFavorites(prev => [...prev, { line: selectedLine, stationId: safeStationId, stationName: station?.stationName || '' }]);
+        }
+    };
+
+    const selectFavorite = (fav) => {
+        setSelectedLine(fav.line);
+        const station = stationData.find(s => s.stationId === fav.stationId);
+        if (station) {
+            setSelectedStationId(fav.stationId);
+            setSelectedPlatformId(station.platforms[0].platformId);
+            setSelectedTrainLength(station.platforms[0].availableTrainLengths[0]);
+        }
+    };
+
     const availableLines = [...new Set(stationData.map(d => d.line))];
     const [selectedLine, setSelectedLine] = useState(availableLines[0]);
 
@@ -22,8 +63,7 @@ export default function App() {
 
     const [selectedTrainLength, setSelectedTrainLength] = useState(currentPlatform.availableTrainLengths[0]);
 
-    // 🌟UX改善：デフォルトを明確に号車が変わる「階段」に変更しました
-    const [targetFacilityType, setTargetFacilityType] = useState('stairs');
+    const [targetFacilityType, setTargetFacilityType] = useState('elevator');
 
     const availableLengths = currentPlatform.availableTrainLengths;
     const activeTrainLength = availableLengths.includes(selectedTrainLength) ? selectedTrainLength : availableLengths[0];
@@ -52,6 +92,14 @@ export default function App() {
 
     const activeMeta = getFacilityMeta(targetFacilityType);
 
+    const allFacilitiesForDiagram = currentPlatform.facilities
+        .map(f => {
+            const pos = f.positions.find(p => p.length === activeTrainLength);
+            if (!pos) return null;
+            return { ...f, carNumber: pos.carNumber, doorNumber: pos.doorNumber };
+        })
+        .filter(Boolean);
+
     return (
         <div className="min-h-screen bg-gray-50 font-sans text-gray-800 pb-20 overflow-x-hidden">
             {/* 🌟UX改善：カードが切り替わったことを伝えるアニメーションを追加 */}
@@ -71,6 +119,29 @@ export default function App() {
                     <h1 className="text-xl font-bold tracking-tight">降車位置ガイド</h1>
                 </div>
             </header>
+
+            {favorites.length > 0 && (
+                <div className="max-w-md mx-auto px-4 mt-3">
+                    <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
+                        {favorites.map(fav => {
+                            const isActive = fav.line === selectedLine && fav.stationId === safeStationId;
+                            return (
+                                <button
+                                    key={fav.stationId}
+                                    onClick={() => selectFavorite(fav)}
+                                    className={`flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-bold border transition-all ${isActive
+                                        ? 'bg-yellow-50 border-yellow-400 text-yellow-700'
+                                        : 'bg-white border-gray-200 text-gray-600 hover:border-gray-300'
+                                    }`}
+                                >
+                                    <Star size={12} className={isActive ? 'fill-yellow-400 text-yellow-400' : 'text-gray-300'} />
+                                    {fav.stationName}駅
+                                </button>
+                            );
+                        })}
+                    </div>
+                </div>
+            )}
 
             <main className="max-w-md mx-auto px-4 mt-6">
 
@@ -107,27 +178,45 @@ export default function App() {
                 {/* 2. 駅選択 */}
                 <div className="mb-5">
                     <label className="block text-sm font-bold text-gray-700 mb-2">2. 降りる駅</label>
-                    <div className="relative">
-                        <select
-                            value={safeStationId}
-                            onChange={(e) => {
-                                const newStationId = e.target.value;
-                                const newStation = stationData.find(s => s.stationId === newStationId);
-                                setSelectedStationId(newStationId);
-                                setSelectedPlatformId(newStation.platforms[0].platformId);
-                                setSelectedTrainLength(newStation.platforms[0].availableTrainLengths[0]);
-                            }}
-                            className="w-full appearance-none bg-white border-2 border-gray-200 rounded-xl py-3.5 px-4 text-lg font-bold text-gray-900 shadow-sm focus:outline-none focus:border-blue-500 transition-colors"
-                        >
-                            {stationsInLine.map(station => (
-                                <option key={station.stationId} value={station.stationId}>
-                                    {station.stationName}駅
-                                </option>
-                            ))}
-                        </select>
-                        <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4 text-gray-400">
-                            <svg className="fill-current h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" /></svg>
+                    <div className="flex gap-2">
+                        <div className="relative flex-1">
+                            <select
+                                value={safeStationId}
+                                onChange={(e) => {
+                                    const newStationId = e.target.value;
+                                    const newStation = stationData.find(s => s.stationId === newStationId);
+                                    setSelectedStationId(newStationId);
+                                    setSelectedPlatformId(newStation.platforms[0].platformId);
+                                    setSelectedTrainLength(newStation.platforms[0].availableTrainLengths[0]);
+                                }}
+                                className="w-full appearance-none bg-white border-2 border-gray-200 rounded-xl py-3.5 px-4 text-lg font-bold text-gray-900 shadow-sm focus:outline-none focus:border-blue-500 transition-colors"
+                            >
+                                {stationsInLine.map(station => (
+                                    <option key={station.stationId} value={station.stationId}>
+                                        {station.stationName}駅
+                                    </option>
+                                ))}
+                            </select>
+                            <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4 text-gray-400">
+                                <svg className="fill-current h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" /></svg>
+                            </div>
                         </div>
+                        <button
+                            onClick={toggleFavorite}
+                            className={`flex-shrink-0 w-12 h-12 self-center flex items-center justify-center rounded-xl border-2 transition-all ${isFavorite(selectedLine, safeStationId)
+                                ? 'bg-yellow-50 border-yellow-400'
+                                : 'bg-white border-gray-200 hover:border-gray-300'
+                            }`}
+                            title={isFavorite(selectedLine, safeStationId) ? 'お気に入り解除' : 'お気に入り登録'}
+                        >
+                            <Star
+                                size={22}
+                                className={isFavorite(selectedLine, safeStationId)
+                                    ? 'fill-yellow-400 text-yellow-400'
+                                    : 'text-gray-300'
+                                }
+                            />
+                        </button>
                     </div>
                 </div>
 
@@ -210,8 +299,18 @@ export default function App() {
                     </div>
                 </div>
 
+                {/* 号車図 */}
+                {allFacilitiesForDiagram.length > 0 && (
+                    <TrainDiagram
+                        trainLength={activeTrainLength}
+                        facilities={allFacilitiesForDiagram}
+                        activeFacilityType={targetFacilityType}
+                        getFacilityMeta={getFacilityMeta}
+                    />
+                )}
+
                 {/* 結果表示エリア */}
-                <div className="mt-8">
+                <div className="mt-6">
                     <h2 className="text-lg font-bold text-gray-800 mb-4 flex items-center gap-2">
                         <CheckCircle2 className={`text-${activeMeta.themeColor}-500`} size={22} />
                         乗るべき位置はこちら
