@@ -306,6 +306,7 @@ export default function App() {
                         facilities={allFacilitiesForDiagram}
                         activeFacilityType={targetFacilityType}
                         getFacilityMeta={getFacilityMeta}
+                        platformName={currentPlatform.platformName}
                     />
                 )}
 

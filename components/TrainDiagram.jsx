@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function TrainDiagram({ trainLength, facilities, activeFacilityType, getFacilityMeta }) {
+export default function TrainDiagram({ trainLength, facilities, activeFacilityType, getFacilityMeta, platformName }) {
     // Group facilities by car number
     const facilityByCar = {};
     for (const f of facilities) {
@@ -33,6 +33,20 @@ export default function TrainDiagram({ trainLength, facilities, activeFacilityTy
         <div className="mt-6 mb-2">
             <label className="block text-sm font-bold text-gray-700 mb-2">ホーム設備マップ</label>
             <div className="bg-white rounded-xl border-2 border-gray-200 p-3 overflow-x-auto">
+                {/* Direction arrow */}
+                <div className="flex items-center mb-2 text-[11px] text-gray-500 font-bold gap-1" style={{ minWidth: `${trainLength * 44}px` }}>
+                    <span className="whitespace-nowrap">1号車</span>
+                    <div className="flex-1 relative h-4 flex items-center">
+                        <div className="absolute inset-x-0 border-t border-gray-300 border-dashed" />
+                        <svg className="absolute left-0 -ml-0.5" width="8" height="8" viewBox="0 0 8 8"><path d="M8 4L0 0v8z" fill="#9ca3af" transform="rotate(180 4 4)" /></svg>
+                    </div>
+                    <span className="whitespace-nowrap text-gray-600">進行方向 →</span>
+                    <div className="flex-1 relative h-4 flex items-center">
+                        <div className="absolute inset-x-0 border-t border-gray-300 border-dashed" />
+                        <svg className="absolute right-0 -mr-0.5" width="8" height="8" viewBox="0 0 8 8"><path d="M0 4l8-4v8z" fill="#9ca3af" /></svg>
+                    </div>
+                    <span className="whitespace-nowrap">{trainLength}号車</span>
+                </div>
                 <div className="flex gap-0.5" style={{ minWidth: `${trainLength * 44}px` }}>
                     {cars.map(carNum => {
                         const carFacilities = facilityByCar[carNum] || [];
