@@ -1,5 +1,5 @@
 import React from 'react';
-import { getCarLabel, isAugmentedLine } from './carLabel';
+import { getCarLabel } from './carLabel';
 
 export default function TrainDiagram({ trainLength, facilities, activeFacilityType, getFacilityMeta, platformName, lineName }) {
     // Collect all car numbers that actually appear in the data
@@ -20,8 +20,11 @@ export default function TrainDiagram({ trainLength, facilities, activeFacilityTy
         facilityByCar[f.carNumber].push(f);
     }
 
-    // Check if this line has augmented cars
-    const baseCars = isAugmentedLine(lineName, trainLength);
+    // Determine if car order should be reversed based on platform direction
+    // 上り/北行 = towards Tokyo → higher car numbers are at front → reverse
+    // 下り/南行 = away from Tokyo → lower car numbers are at front → keep as-is
+    const reversed = platformName && /上り|北行/.test(platformName);
+    const displayCars = reversed ? [...cars].reverse() : cars;
 
     const typeSymbol = (type) => {
         switch (type) {
@@ -42,40 +45,31 @@ export default function TrainDiagram({ trainLength, facilities, activeFacilityTy
         }
     };
 
-    const firstLabel = getCarLabel(1, lineName, trainLength);
-    const lastLabel = getCarLabel(maxCar, lineName, trainLength);
-
     return (
         <div className="mt-6 mb-2">
             <label className="block text-sm font-bold text-gray-700 mb-2">ホーム設備マップ</label>
             <div className="bg-white rounded-xl border-2 border-gray-200 p-2 overflow-x-auto">
                 {/* Direction arrow */}
-                <div className="flex items-center mb-1.5 text-[10px] text-gray-500 font-bold gap-0.5">
-                    <span className="whitespace-nowrap">{firstLabel}</span>
+                <div className="flex items-center mb-1.5 text-[10px] text-gray-500 font-bold">
+                    <svg className="flex-shrink-0" width="6" height="6" viewBox="0 0 8 8"><path d="M8 4L0 0v8z" fill="#9ca3af" transform="rotate(180 4 4)" /></svg>
                     <div className="flex-1 relative h-3 flex items-center">
                         <div className="absolute inset-x-0 border-t border-gray-300 border-dashed" />
-                        <svg className="absolute left-0 -ml-0.5" width="6" height="6" viewBox="0 0 8 8"><path d="M8 4L0 0v8z" fill="#9ca3af" transform="rotate(180 4 4)" /></svg>
                     </div>
-                    <span className="whitespace-nowrap text-gray-600">進行方向→</span>
+                    <span className="whitespace-nowrap text-gray-600 px-1">←進行方向</span>
                     <div className="flex-1 relative h-3 flex items-center">
                         <div className="absolute inset-x-0 border-t border-gray-300 border-dashed" />
-                        <svg className="absolute right-0 -mr-0.5" width="6" height="6" viewBox="0 0 8 8"><path d="M0 4l8-4v8z" fill="#9ca3af" /></svg>
                     </div>
-                    <span className="whitespace-nowrap">{lastLabel}</span>
                 </div>
                 <div className="flex gap-px">
-                    {cars.map(carNum => {
+                    {displayCars.map(carNum => {
                         const carFacilities = facilityByCar[carNum] || [];
                         const hasFacility = carFacilities.length > 0;
                         const label = getCarLabel(carNum, lineName, trainLength);
-                        const isAugmented = baseCars && carNum > baseCars;
                         return (
                             <div key={carNum} className="flex flex-col items-center flex-1 min-w-0">
                                 {/* Car box */}
-                                <div className={`w-full h-8 border rounded flex items-center justify-center font-bold ${
-                                    isAugmented
-                                        ? `text-[9px] ${hasFacility ? 'bg-amber-50 border-amber-300' : 'bg-amber-50 border-amber-200 text-amber-400'}`
-                                        : `text-[10px] ${hasFacility ? 'bg-gray-50 border-gray-300' : 'bg-gray-50 border-gray-200 text-gray-400'}`
+                                <div className={`w-full h-8 border rounded flex items-center justify-center font-bold text-[10px] ${
+                                    hasFacility ? 'bg-gray-50 border-gray-300' : 'bg-gray-50 border-gray-200 text-gray-400'
                                 }`}>
                                     {label}
                                 </div>
@@ -111,12 +105,6 @@ export default function TrainDiagram({ trainLength, facilities, activeFacilityTy
                             </div>
                         );
                     })}
-                    {baseCars && (
-                        <div className="flex items-center gap-1 text-[10px] font-bold text-amber-600">
-                            <span className="inline-block w-4 h-4 rounded border border-amber-300 bg-amber-50 text-center leading-4">増</span>
-                            増結車両
-                        </div>
-                    )}
                 </div>
             </div>
         </div>
