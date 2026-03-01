@@ -1,0 +1,4189 @@
+[
+  {
+    "stationId": "yokohama-sotetsuhome__sotetsu",
+    "stationName": "横浜",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/yokohama-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yokohama-sotetsuhome_0",
+        "platformName": "１Ｆ改札口（みなみ西口・みなみ通路・みなみ東口）方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-sotetsuhome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-sotetsuhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hiranumabashi-sotetsuhome__sotetsu",
+    "stationName": "平沼橋",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/hiranumabashi-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hiranumabashi-sotetsuhome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hiranumabashi-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiranumabashi-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hiranumabashi-sotetsuhome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hiranumabashi-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiranumabashi-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishiyokohama-sotetsuhomel__sotetsu",
+    "stationName": "西横浜",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/nishiyokohama-sotetsuhomel-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishiyokohama-sotetsuhomel_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiyokohama-sotetsuhomel_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishiyokohama-sotetsuhomel_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishiyokohama-sotetsuhomel_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiyokohama-sotetsuhomel_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishiyokohama-sotetsuhomel_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tennocho-sotetsuhomel__sotetsu",
+    "stationName": "天王町",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/tennocho-sotetsuhomel-info/",
+    "platforms": [
+      {
+        "platformId": "p_tennocho-sotetsuhomel_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tennocho-sotetsuhomel_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tennocho-sotetsuhomel_1",
+        "platformName": "横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tennocho-sotetsuhomel_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tennocho-sotetsuhomel_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hoshikawa-sotetsuhome__sotetsu",
+    "stationName": "星川",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/hoshikawa-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hoshikawa-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hoshikawa-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hoshikawa-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hoshikawa-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hoshikawa-sotetsuhome_1",
+        "platformName": "横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hoshikawa-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hoshikawa-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hoshikawa-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "wadamachi-sotetsuhomel__sotetsu",
+    "stationName": "和田町",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/wadamachi-sotetsuhomel-info/",
+    "platforms": [
+      {
+        "platformId": "p_wadamachi-sotetsuhomel_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "wadamachi-sotetsuhomel_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "wadamachi-sotetsuhomel_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_wadamachi-sotetsuhomel_1",
+        "platformName": "横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "wadamachi-sotetsuhomel_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kamihoshikawa-sotetsuhome__sotetsu",
+    "stationName": "上星川",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/kamihoshikawa-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kamihoshikawa-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kamihoshikawa-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kamihoshikawa-sotetsuhome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kamihoshikawa-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kamihoshikawa-sotetsuhome_1",
+        "platformName": "横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kamihoshikawa-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kamihoshikawa-sotetsuhome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kamihoshikawa-sotetsuhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishiya-sotetsuhome__sotetsu",
+    "stationName": "西谷",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/nishiya-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishiya-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiya-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishiya-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiya-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tsurugamine-sotetsuhome__sotetsu",
+    "stationName": "鶴ケ峰",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/tsurugamine-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tsurugamine-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsurugamine-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsurugamine-sotetsuhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tsurugamine-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsurugamine-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsurugamine-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "futamatagawa-sotetsuhome__sotetsu",
+    "stationName": "二俣川",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/futamatagawa-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_futamatagawa-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "futamatagawa-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_futamatagawa-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "futamatagawa-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kibogaoka-sotetsuhome__sotetsu",
+    "stationName": "希望ヶ丘",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/kibogaoka-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kibogaoka-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kibogaoka-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kibogaoka-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kibogaoka-sotetsuhome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kibogaoka-sotetsuhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "mitsukyo-sotetsuhome__sotetsu",
+    "stationName": "三ツ境",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/mitsukyo-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_mitsukyo-sotetsuhome_0",
+        "platformName": "海老名方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "mitsukyo-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_mitsukyo-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "mitsukyo-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "seya-sotetsuhome__sotetsu",
+    "stationName": "瀬谷",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/seya-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_seya-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "seya-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_seya-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "seya-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yamato-sotetsuhome__sotetsu",
+    "stationName": "大和",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/yamato-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yamato-sotetsuhome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yamato-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yamato-sotetsuhome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yamato-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sagamiotsuka-sotetsuhome__sotetsu",
+    "stationName": "相模大塚",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/sagamiotsuka-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sagamiotsuka-sotetsuhome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sagamiotsuka-sotetsuhome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sagamino-sotetsuhome__sotetsu",
+    "stationName": "さがみ野",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/sagamino-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sagamino-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamino-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sagamino-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamino-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kashiwadai-sotetsuhome__sotetsu",
+    "stationName": "かしわ台",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/kashiwadai-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kashiwadai-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kashiwadai-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kashiwadai-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kashiwadai-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "minamimakigahara-sotetsuizuminohome__sotetsu",
+    "stationName": "南万騎が原",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/minamimakigahara-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_minamimakigahara-sotetsuizuminohome_0",
+        "platformName": "湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "minamimakigahara-sotetsuizuminohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "minamimakigahara-sotetsuizuminohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_minamimakigahara-sotetsuizuminohome_1",
+        "platformName": "横浜・新横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "minamimakigahara-sotetsuizuminohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "minamimakigahara-sotetsuizuminohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ryokuentoshi-sotetsuizuminohome__sotetsu",
+    "stationName": "緑園都市",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/ryokuentoshi-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ryokuentoshi-sotetsuizuminohome_0",
+        "platformName": "湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ryokuentoshi-sotetsuizuminohome_1",
+        "platformName": "横浜・新横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ryokuentoshi-sotetsuizuminohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yayoidai-sotetsuizuminohome__sotetsu",
+    "stationName": "弥生台",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/yayoidai-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yayoidai-sotetsuizuminohome_0",
+        "platformName": "湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yayoidai-sotetsuizuminohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yayoidai-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yayoidai-sotetsuizuminohome_1",
+        "platformName": "横浜・新横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yayoidai-sotetsuizuminohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yayoidai-sotetsuizuminohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "izumino-sotetsuizuminohome__sotetsu",
+    "stationName": "いずみ野",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/izumino-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_izumino-sotetsuizuminohome_0",
+        "platformName": "湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "izumino-sotetsuizuminohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumino-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "izumino-sotetsuizuminohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_izumino-sotetsuizuminohome_1",
+        "platformName": "横浜・新横浜方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "izumino-sotetsuizuminohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumino-sotetsuizuminohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "izumino-sotetsuizuminohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "izumichuo-sotetsuizuminohome__sotetsu",
+    "stationName": "いずみ中央",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/izumichuo-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_izumichuo-sotetsuizuminohome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "izumichuo-sotetsuizuminohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumichuo-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumichuo-sotetsuizuminohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_izumichuo-sotetsuizuminohome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "izumichuo-sotetsuizuminohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumichuo-sotetsuizuminohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "izumichuo-sotetsuizuminohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yumegaoka-sotetsuizuminohome__sotetsu",
+    "stationName": "ゆめが丘",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/yumegaoka-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yumegaoka-sotetsuizuminohome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yumegaoka-sotetsuizuminohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yumegaoka-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yumegaoka-sotetsuizuminohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yumegaoka-sotetsuizuminohome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yumegaoka-sotetsuizuminohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yumegaoka-sotetsuizuminohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yumegaoka-sotetsuizuminohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "syonandai-sotetsuizuminohome__sotetsu",
+    "stationName": "湘南台",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/syonandai-sotetsuizuminohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_syonandai-sotetsuizuminohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "syonandai-sotetsuizuminohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "syonandai-sotetsuizuminohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "syonandai-sotetsuizuminohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinyokohama-tokyu-sotetsushinyokohamahome__sotetsu",
+    "stationName": "新横浜",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/shinyokohama-tokyu-sotetsushinyokohamahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinyokohama-tokyu-sotetsushinyokohamahome_0",
+        "platformName": "下り：相鉄線方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinyokohama-tokyu-sotetsushinyokohamahome_1",
+        "platformName": "上り：東急線方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hazawayokohamakokudai-jr-sotetsudirectline__sotetsu",
+    "stationName": "羽沢横浜国大",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/hazawayokohamakokudai-jr-sotetsudirectline-info/",
+    "platforms": [
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_1",
+        "platformName": "新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hiranumabashi-sotetsuhomel__sotetsu",
+    "stationName": "平沼橋",
+    "line": "相鉄線",
+    "sourceUrl": "https://wadattsu261.com/content/hiranumabashi-sotetsuhomel-info/",
+    "platforms": [
+      {
+        "platformId": "p_hiranumabashi-sotetsuhomel_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hiranumabashi-sotetsuhomel_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiranumabashi-sotetsuhomel_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hiranumabashi-sotetsuhomel_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hiranumabashi-sotetsuhomel_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiranumabashi-sotetsuhomel_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

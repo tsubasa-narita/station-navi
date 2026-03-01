@@ -1,0 +1,6016 @@
+[
+  {
+    "stationId": "shibuya-metrofukutoshin-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "渋谷",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shibuya-metrofukutoshin-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shibuya-metrofukutoshin-tokyutoyokohome_0",
+        "platformName": "3・4番線",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_0_6",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shibuya-metrofukutoshin-tokyutoyokohome_1",
+        "platformName": "5・6番線",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-metrofukutoshin-tokyutoyokohome_1_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "daikanyama-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "代官山",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/daikanyama-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_daikanyama-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "daikanyama-tokyutoyokohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "daikanyama-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "daikanyama-tokyutoyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_daikanyama-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "daikanyama-tokyutoyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "daikanyama-tokyutoyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "daikanyama-tokyutoyokohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nakameguro-tokyutoyoko-metrohibiyahome__tokyu-toyoko",
+    "stationName": "中目黒",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/nakameguro-tokyutoyoko-metrohibiyahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nakameguro-tokyutoyoko-metrohibiyahome_0",
+        "platformName": "横浜方面行き・当駅止まり",
+        "availableTrainLengths": [
+          10,
+          8,
+          7
+        ],
+        "facilities": [
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 7,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 7,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 7,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nakameguro-tokyutoyoko-metrohibiyahome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nakameguro-tokyutoyoko-metrohibiyahome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yutenji-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "祐天寺",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/yutenji-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yutenji-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yutenji-tokyutoyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yutenji-tokyutoyokohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yutenji-tokyutoyokohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yutenji-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yutenji-tokyutoyokohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yutenji-tokyutoyokohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yutenji-tokyutoyokohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "gakugeidaigaku-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "学芸大学",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/gakugeidaigaku-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_gakugeidaigaku-tokyutoyokohome_0",
+        "platformName": "１０両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_gakugeidaigaku-tokyutoyokohome_1",
+        "platformName": "８両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "gakugeidaigaku-tokyutoyokohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "toritsudaigaku-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "都立大学",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/toritsudaigaku-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_toritsudaigaku-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "toritsudaigaku-tokyutoyokohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_toritsudaigaku-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "toritsudaigaku-tokyutoyokohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "jiyugaoka-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "自由が丘",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/jiyugaoka-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_jiyugaoka-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "jiyugaoka-tokyutoyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_0_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_jiyugaoka-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "jiyugaoka-tokyutoyokohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "denenchofu-tokyumeguro-toyokohome__tokyu-toyoko",
+    "stationName": "田園調布",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/denenchofu-tokyumeguro-toyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_denenchofu-tokyumeguro-toyokohome_0",
+        "platformName": "下り：日吉・横浜方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_denenchofu-tokyumeguro-toyokohome_1",
+        "platformName": "上り：目黒・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "denenchofu-tokyumeguro-toyokohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tamagawa-tokyutoyoko-megurohome__tokyu-toyoko",
+    "stationName": "多摩川",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/tamagawa-tokyutoyoko-megurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tamagawa-tokyutoyoko-megurohome_0",
+        "platformName": "下り：横浜・日吉方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_0_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tamagawa-tokyutoyoko-megurohome_1",
+        "platformName": "上り：目黒・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tamagawa-tokyutoyoko-megurohome_1_7",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinmaruko-tokyumeguro-toyokohome__tokyu-toyoko",
+    "stationName": "新丸子",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shinmaruko-tokyumeguro-toyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinmaruko-tokyumeguro-toyokohome_0",
+        "platformName": "横浜・新横浜方面行き",
+        "availableTrainLengths": [
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinmaruko-tokyumeguro-toyokohome_1",
+        "platformName": "目黒・渋谷方面行き",
+        "availableTrainLengths": [
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinmaruko-tokyumeguro-toyokohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "musashikosugi-tokyutoyoko-megurohome__tokyu-toyoko",
+    "stationName": "武蔵小杉",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/musashikosugi-tokyutoyoko-megurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_musashikosugi-tokyutoyoko-megurohome_0",
+        "platformName": "下り：横浜・日吉方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_7",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_8",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_0_9",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_musashikosugi-tokyutoyoko-megurohome_1",
+        "platformName": "上り：目黒・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_6",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_7",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_8",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-tokyutoyoko-megurohome_1_9",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "motosumiyoshi-tokyumeguro-toyokohome__tokyu-toyoko",
+    "stationName": "元住吉",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/motosumiyoshi-tokyumeguro-toyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_motosumiyoshi-tokyumeguro-toyokohome_0",
+        "platformName": "横浜・新横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "motosumiyoshi-tokyumeguro-toyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "motosumiyoshi-tokyumeguro-toyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_motosumiyoshi-tokyumeguro-toyokohome_1",
+        "platformName": "目黒・渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "motosumiyoshi-tokyumeguro-toyokohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "motosumiyoshi-tokyumeguro-toyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hiyoshi-tokyutoyoko-megurohome__tokyu-toyoko",
+    "stationName": "日吉",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/hiyoshi-tokyutoyoko-megurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hiyoshi-tokyutoyoko-megurohome_0",
+        "platformName": "東横線・新横浜線下り：横浜・新横浜方面、当駅止まり",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_8",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_0_9",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hiyoshi-tokyutoyoko-megurohome_1",
+        "platformName": "目黒線上り：目黒方面、東横線上り：渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_8",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hiyoshi-tokyutoyoko-megurohome_1_9",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tsunashima-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "綱島",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/tsunashima-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tsunashima-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsunashima-tokyutoyokohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsunashima-tokyutoyokohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsunashima-tokyutoyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tsunashima-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsunashima-tokyutoyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tsunashima-tokyutoyokohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsunashima-tokyutoyokohome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "okurayama-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "大倉山",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/okurayama-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_okurayama-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "okurayama-tokyutoyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "okurayama-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "okurayama-tokyutoyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_okurayama-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "okurayama-tokyutoyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "okurayama-tokyutoyokohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "okurayama-tokyutoyokohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kikuna-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "菊名",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/kikuna-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kikuna-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kikuna-tokyutoyokohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kikuna-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kikuna-tokyutoyokohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "myorenji-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "妙蓮寺",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/myorenji-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_myorenji-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "myorenji-tokyutoyokohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_myorenji-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "myorenji-tokyutoyokohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hakuraku-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "白楽",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/hakuraku-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hakuraku-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hakuraku-tokyutoyokohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hakuraku-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hakuraku-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hakuraku-tokyutoyokohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hakuraku-tokyutoyokohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "higashihakuraku-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "東白楽",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/higashihakuraku-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_higashihakuraku-tokyutoyokohome_0",
+        "platformName": "横浜方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashihakuraku-tokyutoyokohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashihakuraku-tokyutoyokohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_higashihakuraku-tokyutoyokohome_1",
+        "platformName": "渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashihakuraku-tokyutoyokohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashihakuraku-tokyutoyokohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tammachi-tokyutoyokohome__tokyu-toyoko",
+    "stationName": "反町",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/tammachi-tokyutoyokohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tammachi-tokyutoyokohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tammachi-tokyutoyokohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tammachi-tokyutoyokohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tammachi-tokyutoyokohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yokohama-tokyutoyoko-minatomiraihome__tokyu-toyoko",
+    "stationName": "横浜",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/yokohama-tokyutoyoko-minatomiraihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yokohama-tokyutoyoko-minatomiraihome_0",
+        "platformName": "１０両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yokohama-tokyutoyoko-minatomiraihome_1",
+        "platformName": "８両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-tokyutoyoko-minatomiraihome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shintsunashima-tokyushinyokohamahome__tokyu-toyoko",
+    "stationName": "新綱島",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shintsunashima-tokyushinyokohamahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shintsunashima-tokyushinyokohamahome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shintsunashima-tokyushinyokohamahome_1",
+        "platformName": "8両・6両編成時",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shintsunashima-tokyushinyokohamahome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinyokohama-tokyu-sotetsushinyokohamahome__tokyu-toyoko",
+    "stationName": "新横浜",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shinyokohama-tokyu-sotetsushinyokohamahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinyokohama-tokyu-sotetsushinyokohamahome_0",
+        "platformName": "下り：相鉄線方面",
+        "availableTrainLengths": [
+          10,
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinyokohama-tokyu-sotetsushinyokohamahome_1",
+        "platformName": "上り：東急線方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinyokohama-tokyu-sotetsushinyokohamahome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shintakashima-minatomiraihome__tokyu-toyoko",
+    "stationName": "新高島",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shintakashima-minatomiraihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shintakashima-minatomiraihome_0",
+        "platformName": "下り：元町・中華街方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shintakashima-minatomiraihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shintakashima-minatomiraihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shintakashima-minatomiraihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shintakashima-minatomiraihome_1",
+        "platformName": "上り：横浜・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shintakashima-minatomiraihome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shintakashima-minatomiraihome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shintakashima-minatomiraihome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "minatomirai-minatomiraihome__tokyu-toyoko",
+    "stationName": "みなとみらい",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/minatomirai-minatomiraihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_minatomirai-minatomiraihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "minatomirai-minatomiraihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "minatomirai-minatomiraihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "minatomirai-minatomiraihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "minatomirai-minatomiraihome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "bashamichi-minatomiraihome__tokyu-toyoko",
+    "stationName": "馬車道",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/bashamichi-minatomiraihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_bashamichi-minatomiraihome_0",
+        "platformName": "下り：元町・中華街方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "bashamichi-minatomiraihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "bashamichi-minatomiraihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "bashamichi-minatomiraihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_bashamichi-minatomiraihome_1",
+        "platformName": "上り：横浜・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "bashamichi-minatomiraihome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "bashamichi-minatomiraihome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "bashamichi-minatomiraihome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nihonodori-minatomiraihome__tokyu-toyoko",
+    "stationName": "日本大通り",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/nihonodori-minatomiraihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nihonodori-minatomiraihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nihonodori-minatomiraihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nihonodori-minatomiraihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nihonodori-minatomiraihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "motomachi-chukagai-minatomiraihome-no1-2__tokyu-toyoko",
+    "stationName": "元町・中華街",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/motomachi-chukagai-minatomiraihome-no1-2-info/",
+    "platforms": [
+      {
+        "platformId": "p_motomachi-chukagai-minatomiraihome-no1-2_0",
+        "platformName": "１・２番線ホーム：当駅止まり",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "motomachi-chukagai-minatomiraihome-no1-2_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "motomachi-chukagai-minatomiraihome-no1-2_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "motomachi-chukagai-minatomiraihome-no1-2_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "motomachi-chukagai-minatomiraihome-no1-2_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hazawayokohamakokudai-jr-sotetsudirectline__tokyu-toyoko",
+    "stationName": "羽沢横浜国大",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/hazawayokohamakokudai-jr-sotetsudirectline-info/",
+    "platforms": [
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_1",
+        "platformName": "新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shintakashimadaira-toeimitahome__tokyu-toyoko",
+    "stationName": "新高島平",
+    "line": "東急東横線",
+    "sourceUrl": "https://wadattsu261.com/content/shintakashimadaira-toeimitahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shintakashimadaira-toeimitahome_0",
+        "platformName": "目黒方面行き",
+        "availableTrainLengths": [
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shintakashimadaira-toeimitahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shintakashimadaira-toeimitahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shintakashimadaira-toeimitahome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shintakashimadaira-toeimitahome_1",
+        "platformName": "西高島平方面行き",
+        "availableTrainLengths": [
+          8,
+          6
+        ],
+        "facilities": [
+          {
+            "id": "shintakashimadaira-toeimitahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 6,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shintakashimadaira-toeimitahome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 6,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shintakashimadaira-toeimitahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shintakashimadaira-toeimitahome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 6,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

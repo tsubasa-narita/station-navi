@@ -1,0 +1,6439 @@
+[
+  {
+    "stationId": "chiba-soburapidhome-no3-4__jr-yokosuka",
+    "stationName": "千葉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/chiba-soburapidhome-no3-4-info/",
+    "platforms": [
+      {
+        "platformId": "p_chiba-soburapidhome-no3-4_0",
+        "platformName": "３・４番線ホーム：君津方面（内房線下り）、東京方面（総武快速線上り）",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "chiba-soburapidhome-no3-4_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no3-4_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no3-4_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no3-4_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no3-4_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "chiba-soburapidhome-no5-6__jr-yokosuka",
+    "stationName": "千葉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/chiba-soburapidhome-no5-6-info/",
+    "platforms": [
+      {
+        "platformId": "p_chiba-soburapidhome-no5-6_0",
+        "platformName": "５・６番線ホーム：茂原・上総一ノ宮（外房線）方面、当駅止まり",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "chiba-soburapidhome-no5-6_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no5-6_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no5-6_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no5-6_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no5-6_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "chiba-soburapidhome-no7-8__jr-yokosuka",
+    "stationName": "千葉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/chiba-soburapidhome-no7-8-info/",
+    "platforms": [
+      {
+        "platformId": "p_chiba-soburapidhome-no7-8_0",
+        "platformName": "７・８番線ホーム：総武本線下り：佐倉方面、当駅止まり",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "chiba-soburapidhome-no7-8_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no7-8_0_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "chiba-soburapidhome-no9-10__jr-yokosuka",
+    "stationName": "千葉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/chiba-soburapidhome-no9-10-info/",
+    "platforms": [
+      {
+        "platformId": "p_chiba-soburapidhome-no9-10_0",
+        "platformName": "９・１０番線ホーム：成田・成田空港方面（成田線下り）、東京方面（総武快速線上り）",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "chiba-soburapidhome-no9-10_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no9-10_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no9-10_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no9-10_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no9-10_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "chiba-soburapidhome-no9-10_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "inage-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "稲毛",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/inage-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_inage-soburapid-sobuslowhome_0",
+        "platformName": "中央・総武線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "inage-soburapid-sobuslowhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "inage-soburapid-sobuslowhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "inage-soburapid-sobuslowhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_inage-soburapid-sobuslowhome_1",
+        "platformName": "総武快速線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "inage-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "inage-soburapid-sobuslowhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "inage-soburapid-sobuslowhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tsudanuma-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "津田沼",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/tsudanuma-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tsudanuma-soburapid-sobuslowhome_0",
+        "platformName": "1・2番線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tsudanuma-soburapid-sobuslowhome_1",
+        "platformName": "3・4番線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tsudanuma-soburapid-sobuslowhome_2",
+        "platformName": "5・6番線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_2_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_2_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_2_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tsudanuma-soburapid-sobuslowhome_2_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "funabashi-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "船橋",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/funabashi-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_funabashi-soburapid-sobuslowhome_0",
+        "platformName": "中央・総武線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "funabashi-soburapid-sobuslowhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "funabashi-soburapid-sobuslowhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "funabashi-soburapid-sobuslowhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_funabashi-soburapid-sobuslowhome_1",
+        "platformName": "総武快速線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "funabashi-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "funabashi-soburapid-sobuslowhome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "funabashi-soburapid-sobuslowhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "funabashi-soburapid-sobuslowhome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ichikawa-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "市川",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/ichikawa-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ichikawa-soburapid-sobuslowhome_0",
+        "platformName": "中央・総武線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ichikawa-soburapid-sobuslowhome_1",
+        "platformName": "総武快速線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ichikawa-soburapid-sobuslowhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinkoiwa-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "新小岩",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/shinkoiwa-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinkoiwa-soburapid-sobuslowhome_0",
+        "platformName": "中央・総武線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinkoiwa-soburapid-sobuslowhome_1",
+        "platformName": "総武快速線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinkoiwa-soburapid-sobuslowhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kinshicho-soburapid-sobuslowhome__jr-yokosuka",
+    "stationName": "錦糸町",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/kinshicho-soburapid-sobuslowhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kinshicho-soburapid-sobuslowhome_0",
+        "platformName": "中央・総武線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kinshicho-soburapid-sobuslowhome_1",
+        "platformName": "総武快速線",
+        "availableTrainLengths": [
+          15,
+          11,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kinshicho-soburapid-sobuslowhome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "bakurocho-soburapidhome__jr-yokosuka",
+    "stationName": "馬喰町",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/bakurocho-soburapidhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_bakurocho-soburapidhome_0",
+        "platformName": "15両編成時",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "bakurocho-soburapidhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "bakurocho-soburapidhome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "bakurocho-soburapidhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "bakurocho-soburapidhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_bakurocho-soburapidhome_1",
+        "platformName": "11両編成時",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "bakurocho-soburapidhome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "bakurocho-soburapidhome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "bakurocho-soburapidhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinnihonbashi-soburapidhome__jr-yokosuka",
+    "stationName": "新日本橋",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/shinnihonbashi-soburapidhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinnihonbashi-soburapidhome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "shinnihonbashi-soburapidhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinnihonbashi-soburapidhome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinnihonbashi-soburapidhome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinnihonbashi-soburapidhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinnihonbashi-soburapidhome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tokyo-yokosuka-soburapidhome__jr-yokosuka",
+    "stationName": "東京",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/tokyo-yokosuka-soburapidhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tokyo-yokosuka-soburapidhome_0",
+        "platformName": "1・2番線",
+        "availableTrainLengths": [
+          11
+        ],
+        "facilities": [
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tokyo-yokosuka-soburapidhome_1",
+        "platformName": "3・4番線",
+        "availableTrainLengths": [
+          15,
+          14,
+          12,
+          11,
+          9
+        ],
+        "facilities": [
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 14,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 14,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 12,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 12,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 9,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 9,
+                "carNumber": 10,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tokyo-yokosuka-soburapidhome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinbashi-yokosukahome__jr-yokosuka",
+    "stationName": "新橋",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/shinbashi-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinbashi-yokosukahome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "shinbashi-yokosukahome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinbashi-yokosukahome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinbashi-yokosukahome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinbashi-yokosukahome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinbashi-yokosukahome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinagawa-yokosukahome__jr-yokosuka",
+    "stationName": "品川",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/shinagawa-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinagawa-yokosukahome_0",
+        "platformName": "下り：鎌倉・逗子方面",
+        "availableTrainLengths": [
+          15,
+          11,
+          9
+        ],
+        "facilities": [
+          {
+            "id": "shinagawa-yokosukahome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 9,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 9,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_0_8",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinagawa-yokosukahome_1",
+        "platformName": "上り：東京・千葉方面",
+        "availableTrainLengths": [
+          15,
+          11,
+          9
+        ],
+        "facilities": [
+          {
+            "id": "shinagawa-yokosukahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawa-yokosukahome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 9,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome__jr-yokosuka",
+    "stationName": "西大井",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_0",
+        "platformName": "下り：横浜・海老名方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1",
+        "platformName": "上り：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome__jr-yokosuka",
+    "stationName": "武蔵小杉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome-info/",
+    "platforms": [
+      {
+        "platformId": "p_musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_0",
+        "platformName": "下り：横浜・海老名方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1",
+        "platformName": "上り：新宿・東京方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashikosugi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinkawasaki-yokosukahome__jr-yokosuka",
+    "stationName": "新川崎",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/shinkawasaki-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinkawasaki-yokosukahome_0",
+        "platformName": "下り（南行）：逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinkawasaki-yokosukahome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinkawasaki-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinkawasaki-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinkawasaki-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinkawasaki-yokosukahome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinkawasaki-yokosukahome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinkawasaki-yokosukahome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yokohama-yokosukahome__jr-yokosuka",
+    "stationName": "横浜",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/yokohama-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yokohama-yokosukahome_0",
+        "platformName": "下り：逗子方面",
+        "availableTrainLengths": [
+          15,
+          11,
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-yokosukahome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_8",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_0_9",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yokohama-yokosukahome_1",
+        "platformName": "上り：品川・東京方面",
+        "availableTrainLengths": [
+          15,
+          11,
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-yokosukahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_8",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-yokosukahome_1_9",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yokohama-shonanshinjukuline__jr-yokosuka",
+    "stationName": "横浜",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/yokohama-shonanshinjukuline-info/",
+    "platforms": [
+      {
+        "platformId": "p_yokohama-shonanshinjukuline_0",
+        "platformName": "南行：逗子・小田原方面",
+        "availableTrainLengths": [
+          15,
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-shonanshinjukuline_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_6",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_8",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 13,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 13,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 13,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_0_9",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 15,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 15,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 15,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yokohama-shonanshinjukuline_1",
+        "platformName": "北行：渋谷・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yokohama-shonanshinjukuline_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 15,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 15,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 15,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 13,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 13,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 13,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 11,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_7",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_8",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "yokohama-shonanshinjukuline_1_9",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hodogaya-yokosukahome__jr-yokosuka",
+    "stationName": "保土ヶ谷",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/hodogaya-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hodogaya-yokosukahome_0",
+        "platformName": "下り（南行）：逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "hodogaya-yokosukahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hodogaya-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hodogaya-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hodogaya-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "hodogaya-yokosukahome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hodogaya-yokosukahome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hodogaya-yokosukahome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "higashitotsuka-yokosukahome__jr-yokosuka",
+    "stationName": "東戸塚",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/higashitotsuka-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_higashitotsuka-yokosukahome_0",
+        "platformName": "下り（南行）：逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "higashitotsuka-yokosukahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashitotsuka-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashitotsuka-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_higashitotsuka-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "higashitotsuka-yokosukahome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashitotsuka-yokosukahome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashitotsuka-yokosukahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "totsuka-yokosuka-shonanshinjuku-tokaidohome__jr-yokosuka",
+    "stationName": "戸塚",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/totsuka-yokosuka-shonanshinjuku-tokaidohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_totsuka-yokosuka-shonanshinjuku-tokaidohome_0",
+        "platformName": "下り：小田原・逗子方面",
+        "availableTrainLengths": [
+          15
+        ],
+        "facilities": [
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_totsuka-yokosuka-shonanshinjuku-tokaidohome_1",
+        "platformName": "横須賀線上り：東京方面、湘南新宿ライン北行：新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_totsuka-yokosuka-shonanshinjuku-tokaidohome_2",
+        "platformName": "東海道線上り：東京方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_2_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 11,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_2_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_2_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_2_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "totsuka-yokosuka-shonanshinjuku-tokaidohome_2_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ofuna-yokosukahome__jr-yokosuka",
+    "stationName": "大船",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/ofuna-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ofuna-yokosukahome_0",
+        "platformName": "下り：逗子方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "ofuna-yokosukahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 10,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 11,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ofuna-yokosukahome_1",
+        "platformName": "上り：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          11
+        ],
+        "facilities": [
+          {
+            "id": "ofuna-yokosukahome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 11,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 11,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ofuna-yokosukahome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 11,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kitakamakura-yokosukahome__jr-yokosuka",
+    "stationName": "北鎌倉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/kitakamakura-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kitakamakura-yokosukahome_0",
+        "platformName": "下り（南行）：逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kitakamakura-yokosukahome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kitakamakura-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kitakamakura-yokosukahome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kamakura-yokosukahome__jr-yokosuka",
+    "stationName": "鎌倉",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/kamakura-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kamakura-yokosukahome_0",
+        "platformName": "下り（南行）：逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kamakura-yokosukahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kamakura-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kamakura-yokosukahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kamakura-yokosukahome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "zushi-yokosukahome__jr-yokosuka",
+    "stationName": "逗子",
+    "line": "JR横須賀線",
+    "sourceUrl": "https://wadattsu261.com/content/zushi-yokosukahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_zushi-yokosukahome_0",
+        "platformName": "下り（南行）：久里浜方面・当駅止まり",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "zushi-yokosukahome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "zushi-yokosukahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "zushi-yokosukahome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "zushi-yokosukahome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "zushi-yokosukahome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_zushi-yokosukahome_1",
+        "platformName": "上り（北行）：東京・新宿方面",
+        "availableTrainLengths": [
+          4
+        ],
+        "facilities": [
+          {
+            "id": "zushi-yokosukahome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 4,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "zushi-yokosukahome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 4,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 4,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 4,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

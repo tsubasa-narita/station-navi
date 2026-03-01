@@ -1,0 +1,4972 @@
+[
+  {
+    "stationId": "hanno-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "飯能",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/hanno-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hanno-seibuikebukurohome_0",
+        "platformName": "１番線ホーム・４番線ホーム：池袋方面からの当駅止まり（下り）",
+        "availableTrainLengths": [
+          10,
+          8,
+          4
+        ],
+        "facilities": [
+          {
+            "id": "hanno-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hanno-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 4,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 4,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 4,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 4,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hanno-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "motokaji-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "元加治",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/motokaji-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_motokaji-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "motokaji-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "motokaji-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_motokaji-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面（上り）",
+        "availableTrainLengths": [
+          8
+        ],
+        "facilities": [
+          {
+            "id": "motokaji-seibuikebukurohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "motokaji-seibuikebukurohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "bushi-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "仏子",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/bushi-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_bushi-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "bushi-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "bushi-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "bushi-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_bushi-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面（上り）",
+        "availableTrainLengths": [
+          8
+        ],
+        "facilities": [
+          {
+            "id": "bushi-seibuikebukurohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "bushi-seibuikebukurohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "irumashi-seibuikebukurohome-no1__seibu-ikebukuro",
+    "stationName": "入間市",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/irumashi-seibuikebukurohome-no1-info/",
+    "platforms": [
+      {
+        "platformId": "p_irumashi-seibuikebukurohome-no1_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "irumashi-seibuikebukurohome-no1_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "irumashi-seibuikebukurohome-no1_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_irumashi-seibuikebukurohome-no1_1",
+        "platformName": "上り：池袋・新木場・渋谷方面（上り）",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "irumashi-seibuikebukurohome-no1_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "irumashi-seibuikebukurohome-no1_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "inariyamakoen-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "稲荷山公園",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/inariyamakoen-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_inariyamakoen-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "inariyamakoen-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_inariyamakoen-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面（上り）",
+        "availableTrainLengths": [
+          8
+        ],
+        "facilities": [
+          {
+            "id": "inariyamakoen-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "musashifujisawa-seibuikebukurohome-no1__seibu-ikebukuro",
+    "stationName": "武蔵藤沢",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/musashifujisawa-seibuikebukurohome-no1-info/",
+    "platforms": [
+      {
+        "platformId": "p_musashifujisawa-seibuikebukurohome-no1_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "musashifujisawa-seibuikebukurohome-no1_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashifujisawa-seibuikebukurohome-no1_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_musashifujisawa-seibuikebukurohome-no1_1",
+        "platformName": "上り：池袋・新木場・渋谷方面（上り）",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "musashifujisawa-seibuikebukurohome-no1_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashifujisawa-seibuikebukurohome-no1_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "musashifujisawa-seibuikebukurohome-no1_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sayamagaoka-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "狭山ヶ丘",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/sayamagaoka-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sayamagaoka-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sayamagaoka-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sayamagaoka-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sayamagaoka-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sayamagaoka-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sayamagaoka-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sayamagaoka-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sayamagaoka-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kotesashi-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "小手指",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/kotesashi-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kotesashi-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kotesashi-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kotesashi-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kotesashi-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kotesashi-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kotesashi-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kotesashi-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kotesashi-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishitokorozawa-seibuikebukuro-sayamahome__seibu-ikebukuro",
+    "stationName": "西所沢",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/nishitokorozawa-seibuikebukuro-sayamahome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishitokorozawa-seibuikebukuro-sayamahome_0",
+        "platformName": "狭山線下り：西武球場前方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishitokorozawa-seibuikebukuro-sayamahome_1",
+        "platformName": "狭山線上り：西武球場前からの池袋方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishitokorozawa-seibuikebukuro-sayamahome_2",
+        "platformName": "池袋線下り：飯能方面",
+        "availableTrainLengths": [
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_2_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_2_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_2_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishitokorozawa-seibuikebukuro-sayamahome_3",
+        "platformName": "池袋線上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_3_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_3_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_3_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nishitokorozawa-seibuikebukuro-sayamahome_3_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tokorozawa-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "所沢",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/tokorozawa-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tokorozawa-seibuikebukurohome_0",
+        "platformName": "下り：飯能・西武球場前方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tokorozawa-seibuikebukurohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tokorozawa-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tokorozawa-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_1_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tokorozawa-seibuikebukurohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "akitsu-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "秋津",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/akitsu-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_akitsu-seibuikebukurohome_0",
+        "platformName": "下り：西武球場前・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "akitsu-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "akitsu-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "akitsu-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_akitsu-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "akitsu-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "akitsu-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "akitsu-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kiyose-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "清瀬",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/kiyose-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kiyose-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kiyose-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kiyose-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kiyose-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kiyose-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kiyose-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kiyose-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kiyose-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "higashikurume-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "東久留米",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/higashikurume-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_higashikurume-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashikurume-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashikurume-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashikurume-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_higashikurume-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashikurume-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashikurume-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashikurume-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hibarigaoka-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "ひばりヶ丘",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/hibarigaoka-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hibarigaoka-seibuikebukurohome_0",
+        "platformName": "下り：飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hibarigaoka-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hibarigaoka-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "hibarigaoka-seibuikebukurohome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hoya-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "保谷",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/hoya-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_hoya-seibuikebukurohome_0",
+        "platformName": "下り：西武球場前・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hoya-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "hoya-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hoya-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hoya-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hoya-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hoya-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hoya-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "oizumigakuen-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "大泉学園",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/oizumigakuen-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_oizumigakuen-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "oizumigakuen-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "oizumigakuen-seibuikebukurohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "oizumigakuen-seibuikebukurohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_oizumigakuen-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "oizumigakuen-seibuikebukurohome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "oizumigakuen-seibuikebukurohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "oizumigakuen-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shakujiikoen-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "石神井公園",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/shakujiikoen-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shakujiikoen-seibuikebukurohome_0",
+        "platformName": "下り：飯能・西武球場前方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shakujiikoen-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shakujiikoen-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shakujiikoen-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shakujiikoen-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shakujiikoen-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shakujiikoen-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shakujiikoen-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nerimatakanodai-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "練馬高野台",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/nerimatakanodai-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nerimatakanodai-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nerimatakanodai-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerimatakanodai-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "fujimidai-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "富士見台",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/fujimidai-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_fujimidai-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "fujimidai-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "fujimidai-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "fujimidai-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_fujimidai-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "fujimidai-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "fujimidai-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "fujimidai-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nakamurabashi-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "中村橋",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/nakamurabashi-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nakamurabashi-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nakamurabashi-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nakamurabashi-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nakamurabashi-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nakamurabashi-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nakamurabashi-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nakamurabashi-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nakamurabashi-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nerima-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "練馬",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/nerima-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nerima-seibuikebukurohome_0",
+        "platformName": "下り：飯能・豊島園方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nerima-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nerima-seibuikebukurohome_1",
+        "platformName": "上り：池袋・新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nerima-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nerima-seibuikebukurohome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sakuradai-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "桜台",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/sakuradai-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sakuradai-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sakuradai-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sakuradai-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sakuradai-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sakuradai-seibuikebukurohome_1",
+        "platformName": "上り：池袋方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sakuradai-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sakuradai-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sakuradai-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ekoda-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "江古田",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/ekoda-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ekoda-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ekoda-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ekoda-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ekoda-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ekoda-seibuikebukurohome_1",
+        "platformName": "上り：池袋方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ekoda-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ekoda-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ekoda-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "higashinagasaki-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "東長崎",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/higashinagasaki-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_higashinagasaki-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashinagasaki-seibuikebukurohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashinagasaki-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "higashinagasaki-seibuikebukurohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_higashinagasaki-seibuikebukurohome_1",
+        "platformName": "上り：池袋方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "higashinagasaki-seibuikebukurohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "higashinagasaki-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "higashinagasaki-seibuikebukurohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shiinamachi-seibuikebukurohome__seibu-ikebukuro",
+    "stationName": "椎名町",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/shiinamachi-seibuikebukurohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shiinamachi-seibuikebukurohome_0",
+        "platformName": "下り：所沢・飯能方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shiinamachi-seibuikebukurohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shiinamachi-seibuikebukurohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shiinamachi-seibuikebukurohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shiinamachi-seibuikebukurohome_1",
+        "platformName": "上り：池袋方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shiinamachi-seibuikebukurohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shiinamachi-seibuikebukurohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shiinamachi-seibuikebukurohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ikebukuro-seibuikebukurohome-no1-4-6-7__seibu-ikebukuro",
+    "stationName": "池袋",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/ikebukuro-seibuikebukurohome-no1-4-6-7-info/",
+    "platforms": [
+      {
+        "platformId": "p_ikebukuro-seibuikebukurohome-no1-4-6-7_0",
+        "platformName": "１・４・６番線ホーム到着時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ikebukuro-seibuikebukurohome-no1-4-6-7_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-seibuikebukurohome-no1-4-6-7_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-seibuikebukurohome-no1-4-6-7_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ikebukuro-seibuikebukurohome-no1-4-6-7_1",
+        "platformName": "７番線ホーム到着時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "ikebukuro-seibuikebukurohome-no1-4-6-7_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-seibuikebukurohome-no1-4-6-7_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinsakuradai-seibuyurakuchohome__seibu-ikebukuro",
+    "stationName": "新桜台",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/shinsakuradai-seibuyurakuchohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinsakuradai-seibuyurakuchohome_0",
+        "platformName": "下り：練馬・石神井公園方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinsakuradai-seibuyurakuchohome_1",
+        "platformName": "上り：新木場・渋谷方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinsakuradai-seibuyurakuchohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome__seibu-ikebukuro",
+    "stationName": "小竹向原",
+    "line": "西武池袋線",
+    "sourceUrl": "https://wadattsu261.com/content/kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_0",
+        "platformName": "新木場・渋谷方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_1",
+        "platformName": "和光市・練馬方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kotakemukaihara-seibuyurakucho-metroyurakucho-fukutoshinhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

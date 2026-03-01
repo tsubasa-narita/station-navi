@@ -1,0 +1,6098 @@
+[
+  {
+    "stationId": "kawagoe-tobutojo-jrkawagoehome__jr-saikyo",
+    "stationName": "川越",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kawagoe-tobutojo-jrkawagoehome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kawagoe-tobutojo-jrkawagoehome_0",
+        "platformName": "東武東上線",
+        "availableTrainLengths": [
+          10,
+          8,
+          4
+        ],
+        "facilities": [
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 4,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 4,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 4,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 4,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 4,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kawagoe-tobutojo-jrkawagoehome_1",
+        "platformName": "JR川越線",
+        "availableTrainLengths": [
+          10,
+          4
+        ],
+        "facilities": [
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 4,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 4,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 4,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kawagoe-tobutojo-jrkawagoehome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 4,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "minamifuruya-kawagoe-saikyohome__jr-saikyo",
+    "stationName": "南古谷",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/minamifuruya-kawagoe-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_minamifuruya-kawagoe-saikyohome_0",
+        "platformName": "南行：大宮・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "minamifuruya-kawagoe-saikyohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "minamifuruya-kawagoe-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sashiogi-kawagoe-saikyohome__jr-saikyo",
+    "stationName": "指扇",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/sashiogi-kawagoe-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sashiogi-kawagoe-saikyohome_0",
+        "platformName": "南行：大宮・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "sashiogi-kawagoe-saikyohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sashiogi-kawagoe-saikyohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sashiogi-kawagoe-saikyohome_1",
+        "platformName": "北行：川越方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "sashiogi-kawagoe-saikyohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sashiogi-kawagoe-saikyohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishiomiya-kawagoe-saikyohome__jr-saikyo",
+    "stationName": "西大宮",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nishiomiya-kawagoe-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishiomiya-kawagoe-saikyohome_0",
+        "platformName": "南行：大宮・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishiomiya-kawagoe-saikyohome_1",
+        "platformName": "北行：川越方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiomiya-kawagoe-saikyohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nisshin-kawagoe-saikyohome__jr-saikyo",
+    "stationName": "日進",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nisshin-kawagoe-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nisshin-kawagoe-saikyohome_0",
+        "platformName": "南行：大宮・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nisshin-kawagoe-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nisshin-kawagoe-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nisshin-kawagoe-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nisshin-kawagoe-saikyohome_1",
+        "platformName": "北行：川越方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nisshin-kawagoe-saikyohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nisshin-kawagoe-saikyohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nisshin-kawagoe-saikyohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "omiya-saikyo-kawagoehome__jr-saikyo",
+    "stationName": "大宮",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/omiya-saikyo-kawagoehome-info/",
+    "platforms": [
+      {
+        "platformId": "p_omiya-saikyo-kawagoehome_0",
+        "platformName": "南行：新宿方面・当駅止まり",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "omiya-saikyo-kawagoehome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_omiya-saikyo-kawagoehome_1",
+        "platformName": "北行：川越方面・当駅止まり",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "omiya-saikyo-kawagoehome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "omiya-saikyo-kawagoehome_1_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kitayono-saikyohome__jr-saikyo",
+    "stationName": "北与野",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kitayono-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kitayono-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kitayono-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kitayono-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kitayono-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yonohommachi-saikyohome__jr-saikyo",
+    "stationName": "与野本町",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/yonohommachi-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yonohommachi-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "yonohommachi-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "yonohommachi-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yonohommachi-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "minamiyono-saikyohome__jr-saikyo",
+    "stationName": "南与野",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/minamiyono-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_minamiyono-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "minamiyono-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "minamiyono-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "minamiyono-saikyohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nakaurawa-saikyohome__jr-saikyo",
+    "stationName": "中浦和",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nakaurawa-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nakaurawa-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nakaurawa-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "nakaurawa-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nakaurawa-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "musashiurawa-saikyohome__jr-saikyo",
+    "stationName": "武蔵浦和",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/musashiurawa-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_musashiurawa-saikyohome_0",
+        "platformName": "南行：池袋・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "musashiurawa-saikyohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashiurawa-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashiurawa-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_musashiurawa-saikyohome_1",
+        "platformName": "北行：大宮・川越方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "musashiurawa-saikyohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "musashiurawa-saikyohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "musashiurawa-saikyohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kitatoda-saikyohome__jr-saikyo",
+    "stationName": "北戸田",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kitatoda-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kitatoda-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kitatoda-saikyohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kitatoda-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "toda-saikyohome__jr-saikyo",
+    "stationName": "戸田",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/toda-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_toda-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "toda-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "toda-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "toda-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "todakoen-saikyohome__jr-saikyo",
+    "stationName": "戸田公園",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/todakoen-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_todakoen-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "todakoen-saikyohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "todakoen-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "todakoen-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ukimafunado-saikyohome__jr-saikyo",
+    "stationName": "浮間舟渡",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/ukimafunado-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ukimafunado-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ukimafunado-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ukimafunado-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ukimafunado-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kitaakabane-saikyohome__jr-saikyo",
+    "stationName": "北赤羽",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kitaakabane-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kitaakabane-saikyohome_0",
+        "platformName": "南行：池袋・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kitaakabane-saikyohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kitaakabane-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "akabane-saikyohome__jr-saikyo",
+    "stationName": "赤羽",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/akabane-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_akabane-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "akabane-saikyohome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "akabane-saikyohome_0_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "jujo-saikyohome__jr-saikyo",
+    "stationName": "十条",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/jujo-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_jujo-saikyohome_0",
+        "platformName": "南行：池袋・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "jujo-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "jujo-saikyohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_jujo-saikyohome_1",
+        "platformName": "北行：大宮・川越方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "jujo-saikyohome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "itabashi-saikyohome-no2__jr-saikyo",
+    "stationName": "板橋",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/itabashi-saikyohome-no2-info/",
+    "platforms": [
+      {
+        "platformId": "p_itabashi-saikyohome-no2_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "itabashi-saikyohome-no2_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "itabashi-saikyohome-no2_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "itabashi-saikyohome-no2_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ikebukuro-saikyohome__jr-saikyo",
+    "stationName": "池袋",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/ikebukuro-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ikebukuro-saikyohome_0",
+        "platformName": "南行：新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ikebukuro-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_0_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_ikebukuro-saikyohome_1",
+        "platformName": "北行：大宮方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ikebukuro-saikyohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ikebukuro-saikyohome_1_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinjuku-saikyohome__jr-saikyo",
+    "stationName": "新宿",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/shinjuku-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinjuku-saikyohome_0",
+        "platformName": "南行：大崎方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinjuku-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_0_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinjuku-saikyohome_1",
+        "platformName": "当駅止まり",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinjuku-saikyohome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_5",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_1_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinjuku-saikyohome_2",
+        "platformName": "当駅止まり",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinjuku-saikyohome_2_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_5",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_2_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinjuku-saikyohome_3",
+        "platformName": "北行：大宮方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinjuku-saikyohome_3_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_5",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinjuku-saikyohome_3_6",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shibuya-saikyohome__jr-saikyo",
+    "stationName": "渋谷",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/shibuya-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shibuya-saikyohome_0",
+        "platformName": "停車位置詳細",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shibuya-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_4",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_5",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_6",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_7",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shibuya-saikyohome_0_8",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 15,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "ebisu-saikyohome__jr-saikyo",
+    "stationName": "恵比寿",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/ebisu-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_ebisu-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "ebisu-saikyohome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ebisu-saikyohome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "ebisu-saikyohome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "ebisu-saikyohome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "ebisu-saikyohome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "osaki-saikyo-rinkaihome__jr-saikyo",
+    "stationName": "大崎",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/osaki-saikyo-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_osaki-saikyo-rinkaihome_0",
+        "platformName": "南行：新木場（りんかい線）方面・武蔵小杉・海老名（相鉄線）方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "osaki-saikyo-rinkaihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_osaki-saikyo-rinkaihome_1",
+        "platformName": "北行：新宿・大宮・川越方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "osaki-saikyo-rinkaihome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 2,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "osaki-saikyo-rinkaihome_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "osaki-shonanshinjukuline__jr-saikyo",
+    "stationName": "大崎",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/osaki-shonanshinjukuline-info/",
+    "platforms": [
+      {
+        "platformId": "p_osaki-shonanshinjukuline_0",
+        "platformName": "南行：大船・小田原・逗子方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "osaki-shonanshinjukuline_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_0_3",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 12,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 13,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_osaki-shonanshinjukuline_1",
+        "platformName": "北行：大宮・高崎・宇都宮方面",
+        "availableTrainLengths": [
+          15,
+          10
+        ],
+        "facilities": [
+          {
+            "id": "osaki-shonanshinjukuline_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 13,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 12,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 10,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "osaki-shonanshinjukuline_1_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 15,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome__jr-saikyo",
+    "stationName": "西大井",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1",
+        "platformName": "上り：東京・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishioi-yokosuka-shonanshinjukuline-sotetsudirecthome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "hazawayokohamakokudai-jr-sotetsudirectline__jr-saikyo",
+    "stationName": "羽沢横浜国大",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/hazawayokohamakokudai-jr-sotetsudirectline-info/",
+    "platforms": [
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_hazawayokohamakokudai-jr-sotetsudirectline_1",
+        "platformName": "新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "hazawayokohamakokudai-jr-sotetsudirectline_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "oimachi-rinkaihome__jr-saikyo",
+    "stationName": "大井町",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/oimachi-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_oimachi-rinkaihome_0",
+        "platformName": "上り：新木場方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "oimachi-rinkaihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "oimachi-rinkaihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_oimachi-rinkaihome_1",
+        "platformName": "下り：大崎・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "oimachi-rinkaihome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinagawaseaside-rinkaihome__jr-saikyo",
+    "stationName": "品川シーサイド",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/shinagawaseaside-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinagawaseaside-rinkaihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinagawaseaside-rinkaihome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawaseaside-rinkaihome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinagawaseaside-rinkaihome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinagawaseaside-rinkaihome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinagawaseaside-rinkaihome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tennozuisle-rinkaihome__jr-saikyo",
+    "stationName": "天王洲アイル",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/tennozuisle-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tennozuisle-rinkaihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "tennozuisle-rinkaihome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tennozuisle-rinkaihome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "tennozuisle-rinkaihome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tennozuisle-rinkaihome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tennozuisle-rinkaihome_0_4",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tokyoteleport-rinkaihome__jr-saikyo",
+    "stationName": "東京テレポート",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/tokyoteleport-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tokyoteleport-rinkaihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "tokyoteleport-rinkaihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyoteleport-rinkaihome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyoteleport-rinkaihome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "tokyoteleport-rinkaihome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "tokyoteleport-rinkaihome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kokusaitenjijo-rinkaihome__jr-saikyo",
+    "stationName": "国際展示場",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kokusaitenjijo-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kokusaitenjijo-rinkaihome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "kokusaitenjijo-rinkaihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "kokusaitenjijo-rinkaihome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kokusaitenjijo-rinkaihome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kokusaitenjijo-rinkaihome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kokusaitenjijo-rinkaihome_0_4",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinonome-rinkaihome__jr-saikyo",
+    "stationName": "東雲",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/shinonome-rinkaihome-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinonome-rinkaihome_0",
+        "platformName": "上り：新木場方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinonome-rinkaihome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "shinonome-rinkaihome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_shinonome-rinkaihome_1",
+        "platformName": "下り：大崎・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinonome-rinkaihome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "shinonome-rinkaihome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "shinkiba-rinkaihome-no1-2__jr-saikyo",
+    "stationName": "新木場",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/shinkiba-rinkaihome-no1-2-info/",
+    "platforms": [
+      {
+        "platformId": "p_shinkiba-rinkaihome-no1-2_0",
+        "platformName": "２Ｆ：１・２番線ホーム（当駅止まり）",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "shinkiba-rinkaihome-no1-2_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinkiba-rinkaihome-no1-2_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "shinkiba-rinkaihome-no1-2_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishiya-sotetsuhome__jr-saikyo",
+    "stationName": "西谷",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nishiya-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishiya-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiya-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_nishiya-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "nishiya-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishiya-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "tsurugamine-sotetsuhome__jr-saikyo",
+    "stationName": "鶴ケ峰",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/tsurugamine-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_tsurugamine-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsurugamine-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsurugamine-sotetsuhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_tsurugamine-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "tsurugamine-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "tsurugamine-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 10,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "futamatagawa-sotetsuhome__jr-saikyo",
+    "stationName": "二俣川",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/futamatagawa-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_futamatagawa-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "futamatagawa-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_futamatagawa-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "futamatagawa-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "futamatagawa-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kibogaoka-sotetsuhome__jr-saikyo",
+    "stationName": "希望ヶ丘",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kibogaoka-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kibogaoka-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kibogaoka-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kibogaoka-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kibogaoka-sotetsuhome_1_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kibogaoka-sotetsuhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "mitsukyo-sotetsuhome__jr-saikyo",
+    "stationName": "三ツ境",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/mitsukyo-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_mitsukyo-sotetsuhome_0",
+        "platformName": "海老名方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "mitsukyo-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_mitsukyo-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "mitsukyo-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "mitsukyo-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "seya-sotetsuhome__jr-saikyo",
+    "stationName": "瀬谷",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/seya-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_seya-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "seya-sotetsuhome_0_0",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_0_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_seya-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "seya-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "seya-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "yamato-sotetsuhome__jr-saikyo",
+    "stationName": "大和",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/yamato-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_yamato-sotetsuhome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yamato-sotetsuhome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_yamato-sotetsuhome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "yamato-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "yamato-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sagamiotsuka-sotetsuhome__jr-saikyo",
+    "stationName": "相模大塚",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/sagamiotsuka-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sagamiotsuka-sotetsuhome_0",
+        "platformName": "10両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sagamiotsuka-sotetsuhome_1",
+        "platformName": "8両編成時",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "sagamiotsuka-sotetsuhome_1_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "sagamino-sotetsuhome__jr-saikyo",
+    "stationName": "さがみ野",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/sagamino-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_sagamino-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamino-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_0_3",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_sagamino-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "sagamino-sotetsuhome_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "sagamino-sotetsuhome_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 3
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "kashiwadai-sotetsuhome__jr-saikyo",
+    "stationName": "かしわ台",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/kashiwadai-sotetsuhome-info/",
+    "platforms": [
+      {
+        "platformId": "p_kashiwadai-sotetsuhome_0",
+        "platformName": "海老名・湘南台方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kashiwadai-sotetsuhome_0_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 6,
+                "doorNumber": 2
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_2",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 4,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_0_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "platformId": "p_kashiwadai-sotetsuhome_1",
+        "platformName": "横浜・新横浜・新宿方面行き",
+        "availableTrainLengths": [
+          10,
+          8
+        ],
+        "facilities": [
+          {
+            "id": "kashiwadai-sotetsuhome_1_0",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 1,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_1",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 4
+              },
+              {
+                "length": 8,
+                "carNumber": 5,
+                "doorNumber": 4
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 8,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "kashiwadai-sotetsuhome_1_3",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 9,
+                "doorNumber": 1
+              },
+              {
+                "length": 8,
+                "carNumber": 8,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "itabashi-saikyohome__jr-saikyo",
+    "stationName": "板橋",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/itabashi-saikyohome-info/",
+    "platforms": [
+      {
+        "platformId": "p_itabashi-saikyohome_0",
+        "platformName": "停車位置（号車とドアの位置）詳細",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "itabashi-saikyohome_0_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 4
+              },
+              {
+                "length": 10,
+                "carNumber": 3,
+                "doorNumber": 1
+              }
+            ]
+          },
+          {
+            "id": "itabashi-saikyohome_0_1",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 2,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "itabashi-saikyohome_0_2",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 1,
+                "doorNumber": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stationId": "nishioi-jr-sotetsudirectline__jr-saikyo",
+    "stationName": "西大井",
+    "line": "JR埼京線",
+    "sourceUrl": "https://wadattsu261.com/content/nishioi-jr-sotetsudirectline-info/",
+    "platforms": [
+      {
+        "platformId": "p_nishioi-jr-sotetsudirectline_1",
+        "platformName": "上り：東京・新宿方面",
+        "availableTrainLengths": [
+          10
+        ],
+        "facilities": [
+          {
+            "id": "nishioi-jr-sotetsudirectline_1_0",
+            "type": "escalator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 1
+              },
+              {
+                "length": 10,
+                "carNumber": 5,
+                "doorNumber": 2
+              }
+            ]
+          },
+          {
+            "id": "nishioi-jr-sotetsudirectline_1_1",
+            "type": "elevator",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "上下",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 6,
+                "doorNumber": 3
+              }
+            ]
+          },
+          {
+            "id": "nishioi-jr-sotetsudirectline_1_2",
+            "type": "stairs",
+            "floorFrom": "ホーム",
+            "floorTo": "改札階",
+            "direction": "下り",
+            "notes": "",
+            "positions": [
+              {
+                "length": 10,
+                "carNumber": 7,
+                "doorNumber": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
