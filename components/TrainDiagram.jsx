@@ -1,5 +1,5 @@
 import React from 'react';
-import { getCarLabel } from './carLabel';
+import { getCarLabel, isAugmentedLine } from './carLabel';
 
 export default function TrainDiagram({ trainLength, facilities, activeFacilityType, getFacilityMeta, platformName, lineName }) {
     // Collect all car numbers that actually appear in the data
@@ -24,7 +24,19 @@ export default function TrainDiagram({ trainLength, facilities, activeFacilityTy
     // 上り/北行 = towards Tokyo → higher car numbers are at front → reverse
     // 下り/南行 = away from Tokyo → lower car numbers are at front → keep as-is
     const reversed = platformName && /上り|北行/.test(platformName);
-    const displayCars = reversed ? [...cars].reverse() : cars;
+
+    // Augmented cars are physically attached before car 1 (横浜 side)
+    // So display order: [増1,増2,...,増N, 1, 2, ..., baseCars]
+    const baseCars = isAugmentedLine(lineName, trainLength);
+    let orderedCars;
+    if (baseCars) {
+        const augCars = cars.filter(c => c > baseCars);
+        const baseCarsArr = cars.filter(c => c <= baseCars);
+        orderedCars = [...augCars, ...baseCarsArr];
+    } else {
+        orderedCars = cars;
+    }
+    const displayCars = reversed ? [...orderedCars].reverse() : orderedCars;
 
     const typeSymbol = (type) => {
         switch (type) {
